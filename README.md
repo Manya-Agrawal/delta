@@ -1,2 +1,2 @@
 # delta
-practice repository
+practice repository.
